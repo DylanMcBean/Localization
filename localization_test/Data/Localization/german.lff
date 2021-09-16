@@ -1,0 +1,24 @@
+STRINGS =
+{
+	CHARACTER = 
+	{
+		GREETINGS = 
+		{
+			HELLO = "Hallo, mein Name ist {}, Schön, Sie kennenzulernen.",
+			HAPPY = "Ich bin gerade sehr (fröhlich, fröhlich, fröhlich, fröhlich, zufrieden, fröhlich). ist es nicht einfach ein (schöner, hübscher, ansprechender) (Tag heute, Nacht heute Abend)",
+			SAD = "Ich fühle mich nicht (sehr gut, großartig, gut), es war nur ein (rauher, zäher, falscher, schlechter, harter, unglücklicher, schrecklicher) Tag heute, Nacht heute Nacht."
+		},
+		COMBAT = 
+		{
+			DEFEND = "Zurückbleiben, der hier ist (mächtig, stark)",
+			ATTACK = "Nehmen Sie das Sie (Monster, Tyrann, Bösewicht)",
+			HURT = "(autsch,autsch,das tat weh,es ist nur ein Kratzer)"
+		},
+		SHOP =
+		{
+			BUY = "Ich möchte {} dieser {} kaufen, die Sie dort gekauft (haben) haben.",
+			SELL = "Hallo {}, interessieren Sie sich für (einige, irgendwelche) meiner {}?",
+			OUT_OF_STOCK = "Es tut mir leid, dass ich im Moment keine Artikel habe, kommen Sie wieder (später, ein anderes Mal, morgen) und ich sollte (mehr Artikel haben, wieder auf Lager sein)."
+		}
+	}
+}

@@ -1,0 +1,24 @@
+STRINGS =
+{
+	CHARACTER = 
+	{
+		GREETINGS = 
+		{
+			HELLO = "Hello my name is {}, Nice to meet you.",
+			HAPPY = "I'm very (happy,jolly,cheerful,merry,content,gleeful) just now. isn't it just a (lovely,pretty,appealing) (day today,night tonight)",
+			SAD = "I'm not feeling (very good,great,well), its just been a( rough, tough, wrong, off, hard, unlucky,n awful) (day today,night tonight)"
+		},
+		COMBAT = 
+		{
+			DEFEND = "Stay back, this one's (powerful,strong)",
+			ATTACK = "Take that you (monster,bully,bad guy)",
+			HURT = "(ouch,owww,that hurt,tis but a scratch)"
+		},
+		SHOP =
+		{
+			BUY = "I would like to buy {} of those {} you (got,have) there.",
+			SELL = "Hello {}, are you intrested in (some,any) of my {}.",
+			OUT_OF_STOCK = "Sorry I dont have any items at the moment, come back (later,some other time,tomorrow) and I should (have more items,be restocked)."
+		}
+	}
+}
